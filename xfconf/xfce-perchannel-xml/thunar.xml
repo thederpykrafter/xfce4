@@ -13,5 +13,5 @@
   <property name="misc-single-click" type="bool" value="false"/>
   <property name="misc-symbolic-icons-in-sidepane" type="bool" value="false"/>
   <property name="misc-text-beside-icons" type="bool" value="false"/>
-  <property name="last-show-hidden" type="bool" value="false"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
 </channel>
